@@ -1,0 +1,33 @@
+{
+  "orderStatus":{
+    "unpaid":"未付款",
+    "paid":"已付款",
+    "signed":"已签约",
+    "cancelled":"取消-已完成",
+    "cancel-pending":"取消-待处理",
+    "cancelling":"取消-进行中",
+    "progressing":"进行中",
+    "completed":"已完成",
+    "refund-pending":"退款-待处理",
+    "refunding":"退款-进行中",
+    "refunded":"退款-已完成",
+    "substitute-pending":"换人-待处理",
+    "substituting":"换人-进行中",
+    "substituted":"换人-已完结",
+    "complaints":"投诉-进行中",
+    "complaints-out":"投诉-已完结"
+  },
+  "orderDay":{
+    "day":"白天",
+    "dayNight":"全天",
+    "night":"晚上"
+  },
+  "workStatus":{
+    "active":"工作中",
+    "inactive":"休息中"
+  },
+  "gender":{
+    "male":"男",
+    "female":"女"
+  }
+}
